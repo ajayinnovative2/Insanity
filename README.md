@@ -1,4 +1,4 @@
 # Insanity
 
-This dir is going to keep the ball rowling. 
-![alt text](https://miro.medium.com/max/2400/1*OecablD-8FGGYVBDhxB6bA.jpeg)
+Some basic building blocks 
+![alt text](https://cdn0.iconfinder.com/data/icons/seo-web-30/64/x-04-256.png)
