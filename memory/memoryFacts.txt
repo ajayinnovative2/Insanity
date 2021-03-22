@@ -1,0 +1,7 @@
+Stack segement vs Heap segement
+
+Stack                                                               Heap                            
+faster to access                                               Slower to access
+Try using Stack as much as possible                            Heap should be used only when lasrge chunk of memory is requird or scope requires to be more.
+Stack segement generally is 2 MB
+It takes one cpu instruction, hence very fast
